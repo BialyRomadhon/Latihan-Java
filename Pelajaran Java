@@ -1,0 +1,16 @@
+Hal apa saja yang sudah saya pelajari 
+
+-Class : 
+Dapat menyimpan suatu data dan dapat di panggil
+
+-Object :
+Sebuah objek yang memiliki suatu data yang saat di panggil dia mengeluarkan data tersebut
+
+-Constructor :
+Untuk memberikan objek agar memiliki data
+
+-Pemanggilan :
+Banyak cara memanggil data dengan menggunakan const, console.log
+
+-Extend :
+Untuk menggabungkan data kedalam class
